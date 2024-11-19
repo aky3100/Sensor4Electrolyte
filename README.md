@@ -5,13 +5,13 @@ Sensor for Electrolyte data repository
 # Admitance response
 At 5kHz
 AdmResponse_05kqra <br />
-AdmVariance_05kqra __
-AdmResponse_05kipb__
-AdmVariance_05kipb__
+AdmVariance_05kqra <br />
+AdmResponse_05kipb <br />
+AdmVariance_05kipb <br />
 
 At 10kHz
-AdmResponse_10kqra
-AdmVariance_10kqra
-AdmResponse_10kipb
-AdmVariance_10kipb
+AdmResponse_10kqra <br />
+AdmVariance_10kqra <br />
+AdmResponse_10kipb <br />
+AdmVariance_10kipb <br />
 
