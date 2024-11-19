@@ -4,8 +4,8 @@ High-Sensitivity Electrical Admittance Sensor with Regression Analysis for Measu
 Sensor for Electrolyte data repository
 # Admitance response
 At 5kHz
-AdmResponse_05kqra__
-AdmVariance_05kqra__
+AdmResponse_05kqra <br />
+AdmVariance_05kqra __
 AdmResponse_05kipb__
 AdmVariance_05kipb__
 
